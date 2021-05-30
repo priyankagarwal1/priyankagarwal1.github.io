@@ -1,7 +1,7 @@
 # Data Analytics Organization Pillars
 
 
-![One of its kind scenery from Pangong Lake, Leh](images/01Leh.png) 
+![One of its kind scenery from Pangong Lake, Leh](images/01Leh.jpg) 
 
 
 A lot of people get confused with the evolving designations and their role in Data Analytics. Let me try to give more perspective on it (based on experience and research from internet). Before that, let us understand how the Data Analytics team is typically organized in a medium-to-large scale enterprise. This will then be easy to connect the dots.
