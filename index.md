@@ -1,4 +1,4 @@
-## Hello and welcome to Priyank's blog. 
+## Welcome to My blog. 
 
 ![](/images/PriyankPic.jpg "Priyank")
 
