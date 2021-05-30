@@ -1,10 +1,10 @@
 # Data Analytics Organization Pillars
 
-
-![One of its kind scenery from Pangong Lake, Leh](images/01Leh.jpg) 
+![](/images/01Leh.jpg "One of its kind scenery from Pangong Lake, Leh")
 
 
 A lot of people get confused with the evolving designations and their role in Data Analytics. Let me try to give more perspective on it (based on experience and research from internet). Before that, let us understand how the Data Analytics team is typically organized in a medium-to-large scale enterprise. This will then be easy to connect the dots.
+
 Data Engineering, Data Platform and Data Analytics are three important pillars of department. There can be many splits/customizations and associations with other departments but primarily these 3 cover most of it. Primarily, other departments are Product Management, Data Management, Program Management, Security & Compliance, other software development teams. All 3 teams interact with Product Management team or Business teams. Let’s quickly look into the primary responsibilities for these Pillar Teams.
 
 
