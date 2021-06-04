@@ -1,4 +1,4 @@
-# About me
+# About Me
 
 ![](/images/PriyankPic.jpg "Priyank")
 
@@ -12,7 +12,3 @@ Email ID: priyank.agarwal1@gmail.com
 
 Regards,
 ### Priyank
-
-
-#
-
