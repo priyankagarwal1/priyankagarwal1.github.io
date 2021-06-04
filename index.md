@@ -13,5 +13,5 @@ Do write to me with your feedback and take aways, I hope to contribute regularly
 
 Email ID: priyank.agarwal1@gmail.com
 
-Regards, 
-Priyank Agarwal
+Regards,
+Priyank
