@@ -1,6 +1,6 @@
 ## Collaborate on Skills rather Hierarchies
 
-![](/images/Collaborate.jpg "How to build the fluid organization")
+![](/images/Collaborate.jpg "Representation of multi-skilled & un-related team members working together in a project")
 
 The world is talking about creating value by doing more or getting more from it. But there’s big difference in what we people are aiming and what they achieve finally.
 
