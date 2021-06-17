@@ -1,7 +1,7 @@
 ## Data Analytics technology advancements way ahead than what business needs today
 
 
-![](/images/02Khichan.jpg "20,000 Demoiselle Cranes gather in Khichan, Rajasthan after travelling 5000 kms crossing Himalayas from Mongolia")
+![](/images/02 Khichan.jpg "20,000 Demoiselle Cranes gather in Khichan, Rajasthan after travelling 5000 kms crossing Himalayas from Mongolia")
 
 
 It will not be incorrect to say technology solutions are way ahead of business needs. Today’s businesses have transformed from their 10 year old avatars but there are other type of challenges that still hinder in becoming fully digital and ML driven. Let’s dive into few of these areas to really understand this gap and how they can be bridged.
