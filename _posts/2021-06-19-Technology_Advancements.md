@@ -1,4 +1,4 @@
-## Data Analytics technology advancements way ahead than what business needs today
+## Technology advancements way ahead of Business
 
 
 ![](/images/02Khichan.jpg "20,000 Demoiselle Cranes gather in Khichan, Rajasthan after travelling 5000 kms crossing Himalayas from Mongolia")
